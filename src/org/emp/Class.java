@@ -19,8 +19,6 @@ int index2 = s3.indexOf('n');
 System.out.println(index2);
 boolean empty = s4.isEmpty();
 System.out.println(empty);
-
-
-
+System.out.println("Hi");
 }
 }
